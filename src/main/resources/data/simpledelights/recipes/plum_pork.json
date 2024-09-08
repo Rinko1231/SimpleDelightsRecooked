@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+
+	"ingredients":
+	[
+		{ "tag": "forge:fruits/plum"},
+		{ "item": "simplefarming:ginger"},
+		{ "item": "minecraft:cooked_porkchop"},
+		{ "item": "minecraft:sugar"}
+	],
+
+	"result": {"item": "simpledelights:plum_pork"}
+
+}

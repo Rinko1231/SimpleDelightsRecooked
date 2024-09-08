@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients":
+  [
+    { "item": "simplefarming:cooked_chicken_wings" },
+    { "tag": "forge:peppers/habanero" },
+    { "tag": "forge:fruits/mango" }
+  ],
+
+  "result": {"item": "simpledelights:mango_wings"}
+}

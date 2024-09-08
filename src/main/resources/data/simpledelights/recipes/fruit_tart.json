@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+
+	"ingredients":
+	[
+		{ "tag": "forge:fruits/pear"},
+		{ "tag": "forge:fruits/apricot"},
+		{ "tag": "forge:fruits/strawberries"},
+		{ "tag": "forge:eggs"},
+		{ "item": "minecraft:sugar"},
+		{ "tag": "forge:grain"}
+	],
+
+	"result": {"item": "simpledelights:fruit_tart"}
+
+}

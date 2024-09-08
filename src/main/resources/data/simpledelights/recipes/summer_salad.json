@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+
+	"ingredients":
+	[
+		{ "tag": "forge:fruits/honeydew"},
+		{ "tag": "forge:fruits/strawberries"},
+		{ "tag": "forge:fruits/blackberries"},
+		{ "tag": "forge:fruits/banana"},
+		{ "item": "minecraft:bowl"}
+	],
+
+	"result": {"item": "simpledelights:summer_salad"}
+
+}

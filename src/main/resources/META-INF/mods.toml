@@ -1,0 +1,39 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+license = "MIT"
+issueTrackerURL = ""
+[[mods]]
+modId = "simpledelights"
+version = "1.0.0"
+displayName = "Simple Delight Recooked"
+displayURL = ""
+logoFile = ""
+credits = "Rinko1231, JesterBlue"
+authors = "Rinko1231, JesterBlue"
+description = '''
+Farmer's Delight + Simple Farming in 1.20.1!
+'''
+[[dependencies.simpledelights]]
+modId = "forge"
+mandatory = true
+versionRange = "[43,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.simpledelights]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.simpledelights]]
+modId = "simplefarming"
+mandatory = false
+versionRange = "[1.20.1-2.0.6,)"
+ordering = "AFTER"
+side = "BOTH"
+[[dependencies.simpledelights]]
+modId = "farmersdelight"
+mandatory = false
+versionRange = "[1.20.1-1.2.4,)"
+ordering = "AFTER"
+side = "BOTH"

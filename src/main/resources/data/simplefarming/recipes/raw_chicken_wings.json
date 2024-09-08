@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:chicken"
+    }
+  ],
+  "result":
+  {
+    "item": "farmersdelight:chicken_cuts",
+    "count": 1
+  }
+}

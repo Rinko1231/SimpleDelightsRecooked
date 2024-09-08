@@ -1,0 +1,24 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:fruits/sweet_berries"
+    },
+    {
+      "tag": "forge:fruits/blackberries"
+    },
+    {
+      "tag": "forge:fruits/blueberries"
+    },
+    {
+      "tag": "forge:fruits/raspberries"
+    }
+  ],
+  "result": {
+    "item": "simpledelights:berry_kompot"
+  },
+  "container": {
+    "item": "minecraft:glass_bottle"
+  },
+  "cookingtime": 200
+}
